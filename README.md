@@ -1,1 +1,1 @@
-# My dotfiles for OS X and Linux
+# dotfiles for OS X and Linux
