@@ -1,1 +1,1 @@
-dotfiles for OS X and Linux
+dotfiles for macOS and Linux
