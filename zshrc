@@ -8,6 +8,8 @@ HISTFILE=~/.zsh_history
 
 export CLICOLOR=1
 
+alias ls='ls -Gh'
+alias mv='mv -vn'
 
 # Tab completion menu
 zstyle ':completion:*' menu select
